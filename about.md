@@ -25,7 +25,7 @@ My CV is available at here. (add links)
 - In the beginning, I read some papers in LLM system optimization and acceleration, especially the acceleration techniques in attention mechanism.(sparsity, checkpoint, quantization, pruning and so on)
 - Discussing with Ph.D.graduate Yu Huang. Searching and reading papers in transformer(mainly in attention mechanism) optimization with Graph methods. The key target is to solve the memory bound problem(increase FLOPS/BytesAccess). Inspired by order invariance of transformer and the similaration between graph and image, we propose "Img2Graph" and "Reorder" operations. An image can be transform to a graph, and then a "Reorder Operation" can be used to reorder the image patches from a graph, making similar patches stay together after the flatten operation in ViT. That is simple to make use of differentiated sparsity/quantization in matrix multiplication in the following progress.
 - Do some experiments to verify ideas, and discuss with Mr.Huang.
-** add slides **
+[slides](https://github.com/N-E-E/personal-web-not-pure-poole-/raw/master/resource/research3-slide.pptx)
 
 ## projects
 [A Five-Stage Pipeline Risc-V CPU](./_posts/2023-10-10-Riscv-CPU.md)
