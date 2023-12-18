@@ -11,8 +11,7 @@ My CV is available at here. (add links)
 #### 10/2022-11/2022: Scheduling of Data Retrieval Tasks in Tape Cloud Storage Systems(HUAWEI Coding Challenge)
 - A short time research experience, mentored by Prof. You Zhou
 - In this research, the team and I solve a Data Retrieval Task and aim to minimize the tasks-waiting time under some limitations. What I did in this project is to discuss with team members, and do coding jobs to verify strategies.
-
-** add slides/coding web **
+- [Code](https://github.com/N-E-E/2022-massive-storage-challenge)
 
 #### 01/2022-02/2022: Heterogeneous Graph Processing System with GPUs/FPGAs
 - Under the supervision of Prof. Long Zheng
@@ -25,16 +24,16 @@ My CV is available at here. (add links)
 - In the beginning, I read some papers in LLM system optimization and acceleration, especially the acceleration techniques in attention mechanism.(sparsity, checkpoint, quantization, pruning and so on)
 - Discussing with Ph.D.graduate Yu Huang. Searching and reading papers in transformer(mainly in attention mechanism) optimization with Graph methods. The key target is to solve the memory bound problem(increase FLOPS/BytesAccess). Inspired by order invariance of transformer and the similaration between graph and image, we propose "Img2Graph" and "Reorder" operations. An image can be transform to a graph, and then a "Reorder Operation" can be used to reorder the image patches from a graph, making similar patches stay together after the flatten operation in ViT. That is simple to make use of differentiated sparsity/quantization in matrix multiplication in the following progress.
 - Do some experiments to verify ideas, and discuss with Mr.Huang.
-[slides](https://github.com/N-E-E/personal-web-not-pure-poole-/raw/master/resource/research3-slide.pptx)
+- [Slide](https://github.com/N-E-E/personal-web-not-pure-poole-/raw/master/resource/research3-slide.pptx)
 
 ## projects
 [A Five-Stage Pipeline Risc-V CPU](./_posts/2023-10-10-Riscv-CPU.md)
 
-[A Compiler Frontend of C-like Language]()
+[A Compiler Frontend of C-like Language](./_posts/2022-10-12-my-simple-compiler.md)
 
 [Android App for AI Drawing Online with Stable Diffusion(Software Engineering Course Project)]()
 
-**For more projects, welcome to visit **
+**For more projects, welcome to visit [my github](https://github.com/N-E-E)**
 
 
 ## Research Interests

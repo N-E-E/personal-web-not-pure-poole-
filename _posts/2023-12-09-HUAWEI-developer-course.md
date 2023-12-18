@@ -11,7 +11,8 @@ toc:  true
 
 ### CMake templates with gtest
 It's a good template to use in cmake projects!
-** add links here **
+
+[template](https://github.com/N-E-E/1_developer_test)
 
 ### git commit rules
 - If enabled, commit files according to the update contents. Remember: **Never use `git add .` in root folder**
