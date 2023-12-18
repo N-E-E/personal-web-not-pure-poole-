@@ -8,6 +8,8 @@ toc:  true
 ---
 
 # Linux From Scratch
+git repo: https://gitee.com/N_E_E/lfs-course/tree/N_E_E/
+
 ## 在虚拟机中安装OpenEuler操作系统
 - 宿主系统: OpenEuler虚拟机
 - 目标系统: Linux发行版
