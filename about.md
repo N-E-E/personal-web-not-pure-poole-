@@ -4,7 +4,7 @@ title: About Me
 ---
 
 
-Hi, welcome to my personal website. I am a 3th year undergraduate student from Huazhong University of Science and Technology(HUST) majoring in Computer Science. I am passionate about computer architecture, including High Performance System, MLSys, and Next Generation Archs(CPUs, Compilers and Memorys).
+Hi, welcome to my personal website. I am a 3th year undergraduate student from Huazhong University of Science and Technology(HUST) majoring in Computer Science. I am passionate about computer architecture, including High Performance System, MLSys, and Next Generation Archs(CPUs, Compilers, In-Memory Computing and so on).
 
 My CV is available [here](https://github.com/N-E-E/personal-web/raw/master/resource/CV.pdf). If it's not available, try [here](https://gitee.com/N_E_E/personal-web-resource/raw/master/CV.pdf)
 
