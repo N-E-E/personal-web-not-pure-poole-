@@ -7,12 +7,13 @@ tags: [Engineer, Modern C++, design pattern]
 toc:  true
 ---
 
+# Summary:
+Git Repo: https://github.com/N-E-E/HUAWEI-developer-course
+
 # Lesson 1: CMake templates(With gtest), git commit rules
 
 ### CMake templates with gtest
 It's a good template to use in cmake projects!
-
-[template](https://github.com/N-E-E/1_developer_test)
 
 ### git commit rules
 - If enabled, commit files according to the update contents. Remember: **Never use `git add .` in root folder**
