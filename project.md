@@ -1,4 +1,4 @@
-# Research & Projects
+
 
 ### [A 5-stage pipeline RISCV CPU](/_posts/2023-.md)
 ![](./img/pipeline_cpu.png)
@@ -21,5 +21,3 @@
 ### [A Tiny music player by QT](./_posts/2023-12-29-kingsoft-course.md)
 ![](./img/musicplayer.png)
 
----
-###  
