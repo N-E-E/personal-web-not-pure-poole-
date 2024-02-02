@@ -1,11 +1,11 @@
 
 
-### [A 5-stage pipeline RISCV CPU](/_posts/2023-.md)
+### [A 5-stage pipeline RISCV CPU](/_posts/2023-10-10-Riscv-CPU.md)
 ![](./img/pipeline_cpu.png)
 
 ---
 
-### [Accelerate vision transformer under a graph perspective](slides)
+### [Accelerate vision transformer under a graph perspective](https://github.com/N-E-E/personal-web/raw/master/resource/research3-slide.pptx)
 ![](./img/graph_vit.png)
 
 ---
